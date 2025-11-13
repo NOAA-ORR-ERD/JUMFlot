@@ -1,0 +1,8 @@
+{
+  "name": "jquery-flot-direction",
+  "version": "1.0.0",
+  "description": "JUMFlot with a package.json",
+  "author": "jumjum123",
+  "license": "MIT",
+  "repository": "https://github.com/NOAA-ORR-ERD/jquery-flot-direction"
+}
